@@ -10,7 +10,7 @@ import Karolayn from '../img/Karolayn.png';
 
 export default [
     {
-        nombre: "Aquaman",
+        nombre: "Aquamansito",
         bio: "El poder más reconocido de Aquaman es la capacidad telepática para comunicarse con la vida marina, la cual puede convocar a grandes distancias.",
         img: aquaman,
         aparicion: "1941-11-01",
